@@ -9,7 +9,7 @@ class Players:
 	Gems = 100000
 	ExpPoints = 10000
 	ExpLevel = 13
-	Name = "KiwiCabreaoo"
+	Name = "MrVitalik"
 
 
 	events = [
